@@ -1,5 +1,3 @@
-[![SOULs](https://souls.elsoul.nl/ogp.jpg)](https://souls.elsoul.nl)
-
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=Epic_DAO">
     <img src="https://img.shields.io/twitter/follow/Epic_DAO.svg?label=Follow%20@Epic_DAO" alt="Follow @Epic_DAO" />
@@ -15,13 +13,14 @@
 </p>
 
 
+## What is Epic?
+Coming soon.
 
 ## Dependency
-
-
+Coming soon.
 
 ## Installation
-
+Coming soon.
 
 ## Contributing
 
